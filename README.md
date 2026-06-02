@@ -6,7 +6,7 @@ Personal notes from PortSwigger Web Security Academy.
 
 - [Introduction](Introduction.md)
 - [Path Traversal](PathTraversal.md)
-- [Access Control](Server-Side-Vulnerabilities/Access-Control.md)
+- [Access Control](Access-Control.md)
 - [Authentication](Server-Side-Vulnerabilities/Authentication.md)
 - [Information Disclosure](Server-Side-Vulnerabilities/Information-Disclosure.md)
 - [Business Logic Vulnerabilities](Server-Side-Vulnerabilities/Business-Logic-Vulnerabilities.md)
