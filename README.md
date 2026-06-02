@@ -4,7 +4,7 @@ Personal notes from PortSwigger Web Security Academy.
 
 ## Server-Side Vulnerabilities
 
-- [Introduction](Server-Side-Vulnerabilities/Introduction.md)
+- [Introduction](Introduction.md)
 - [Path Traversal](Server-Side-Vulnerabilities/Path-Traversal.md)
 - [Access Control](Server-Side-Vulnerabilities/Access-Control.md)
 - [Authentication](Server-Side-Vulnerabilities/Authentication.md)
