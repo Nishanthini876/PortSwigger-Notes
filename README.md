@@ -9,7 +9,7 @@ Personal notes from PortSwigger Web Security Academy.
 - [Access Control](Access-Control.md)
 - [Authentication](Server-Side-Vulnerabilities/Authentication.md)
 - [Information Disclosure](Server-Side-Vulnerabilities/Information-Disclosure.md)
-- [Business Logic Vulnerabilities](Server-Side-Vulnerabilities/Business-Logic-Vulnerabilities.md)
+- [Business Logic Vulnerabilities](Server-Side-Vulnerabilities/File-Upload-Vulnerabilities.md)
 - [SSRF](Server-Side-Vulnerabilities/SSRF.md)
 
 ## Disclaimer
