@@ -8,8 +8,8 @@ Personal notes from PortSwigger Web Security Academy.
 - [Path Traversal](PathTraversal.md)
 - [Access Control](Access-Control.md)
 - [Authentication](Authentication.md)
-- [Information Disclosure](SInformation-Disclosure.md)
-- [Business Logic Vulnerabilities](File-Upload-Vulnerabilities.md)
+- [Information Disclosure](Information-Disclosure.md)
+- [File Upload Vulnerabilities](File-Upload-Vulnerabilities.md)
 - [SSRF](SSRF.md)
 
 ## Disclaimer
